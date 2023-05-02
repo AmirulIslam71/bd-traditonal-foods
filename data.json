@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "picture": "/img/chef1.jpg",
+    "name": "Siddika Kabir",
+    "yearsOfExperience": 30,
+    "numRecipes": 200,
+    "recipes": [
+      {
+        "name": "Biriyani",
+        "description": "A popular rice dish with mixed spices and meat or vegetables",
+        "ingredients": ["rice", "meat", "onion", "garlic", "ginger", "spices"],
+        "instructions": [
+          "Cook rice",
+          "Cook meat and spices separately",
+          "Mix and serve"
+        ],
+        "likes": 1000
+      },
+      {
+        "name": "Pitha",
+        "description": "A type of cake made with rice flour and coconut",
+        "ingredients": ["rice flour", "coconut", "sugar", "oil"],
+        "instructions": [
+          "Mix ingredients and shape into cakes",
+          "Fry in oil",
+          "Serve with syrup"
+        ],
+        "likes": 500
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "picture": "/img/chef2.jpg",
+    "name": "Rukhsana Jalil",
+    "yearsOfExperience": 20,
+    "numRecipes": 150,
+    "recipes": [
+      {
+        "name": "Fish curry",
+        "description": "A spicy fish curry made with local herbs and spices",
+        "ingredients": [
+          "fish",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomatoes",
+          "spices"
+        ],
+        "instructions": [
+          "Fry fish and spices separately",
+          "Add to tomato and onion gravy",
+          "Serve with rice"
+        ],
+        "likes": 800
+      },
+      {
+        "name": "Khichuri",
+        "description": "A simple rice and lentil dish, often served during festivals",
+        "ingredients": ["rice", "lentils", "spices", "vegetables", "oil"],
+        "instructions": [
+          "Cook lentils and rice separately",
+          "Mix and add vegetables and spices",
+          "Serve with fried onions"
+        ],
+        "likes": 600
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "/img/chef3.jpg",
+    "name": "Munira Islam",
+    "yearsOfExperience": 15,
+    "numRecipes": 100,
+    "recipes": [
+      {
+        "name": "Korma",
+        "description": "A creamy and mild meat or vegetable curry",
+        "ingredients": [
+          "meat or vegetables",
+          "onion",
+          "garlic",
+          "ginger",
+          "yogurt",
+          "spices"
+        ],
+        "instructions": [
+          "Cook meat or vegetables and spices separately",
+          "Add to yogurt and onion gravy",
+          "Garnish with cilantro"
+        ],
+        "likes": 700
+      },
+      {
+        "name": "Bhorta",
+        "description": "A mashed vegetable dish, often served as a side",
+        "ingredients": [
+          "vegetables",
+          "onion",
+          "garlic",
+          "ginger",
+          "spices",
+          "oil"
+        ],
+        "instructions": [
+          "Cook vegetables and spices together",
+          "Mash and serve"
+        ],
+        "likes": 400
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "picture": "/img/chef4.jpg",
+    "name": "Shawkat Osman",
+    "yearsOfExperience": 25,
+    "numRecipes": 175,
+    "recipes": [
+      {
+        "name": "Beef bhuna",
+        "description": "A spicy beef curry made with caramelized onions",
+        "ingredients": ["beef", "onion", "garlic", "ginger", "spices", "oil"],
+        "instructions": [
+          "Cook beef and spices separately",
+          "Caramelize onions separately",
+          "Mix together and serve"
+        ],
+        "likes": 900
+      },
+      {
+        "name": "Chotpoti",
+        "description": "A popular street food made with mashed potatoes and chickpeas",
+        "ingredients": [
+          "potatoes",
+          "chickpeas",
+          "spices",
+          "tamarind",
+          "chili",
+          "onion"
+        ],
+        "instructions": [
+          "Cook potatoes and chickpeas and mash together",
+          "Add spices and tamarind sauce",
+          "Garnish with chili and onion"
+        ],
+        "likes": 300
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "picture": "/img/chef5.jpg",
+    "name": "Nadia Ali",
+    "yearsOfExperience": 18,
+    "numRecipes": 120,
+    "recipes": [
+      {
+        "name": "Mango chutney",
+        "description": "A sweet and tangy condiment made with ripe mangoes",
+        "ingredients": ["ripe mangoes", "sugar", "vinegar", "spices"],
+        "instructions": [
+          "Blend ingredients together",
+          "Cook on stove until thickened",
+          "Serve with curry"
+        ],
+        "likes": 100
+      },
+      {
+        "name": "Gulab jamun",
+        "description": "A popular dessert made with fried dough balls and sugar syrup",
+        "ingredients": [
+          "milk powder",
+          "flour",
+          "butter",
+          "sugar",
+          "water",
+          "cardamom"
+        ],
+        "instructions": [
+          "Mix milk powder, flour, and butter together",
+          "Shape into balls and fry",
+          "Soak in sugar syrup and garnish with cardamom"
+        ],
+        "likes": 400
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "picture": "/img/chef6.jpg",
+    "name": "Tareq Taylor",
+    "yearsOfExperience": 12,
+    "numRecipes": 80,
+    "recipes": [
+      {
+        "name": "Samosas",
+        "description": "A popular snack made with spiced meat or vegetables in a fried pastry",
+        "ingredients": [
+          "pastry dough",
+          "meat or vegetables",
+          "onion",
+          "garlic",
+          "ginger",
+          "spices"
+        ],
+        "instructions": [
+          "Make dough and fill with meat or vegetables and spices",
+          "Fold and fry until golden brown",
+          "Serve with chutney"
+        ],
+        "likes": 200
+      },
+      {
+        "name": "Chicken rezala",
+        "description": "A creamy and aromatic chicken curry made with yogurt and spices",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "onion",
+          "garlic",
+          "ginger",
+          "spices"
+        ],
+        "instructions": [
+          "Cook chicken and spices separately",
+          "Add to yogurt and onion gravy",
+          "Garnish with cilantro"
+        ],
+        "likes": 150
+      }
+    ]
+  }
+]
