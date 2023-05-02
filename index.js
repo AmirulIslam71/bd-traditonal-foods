@@ -15,6 +15,12 @@ app.get("/allData", (req, res) => {
   res.send(chefsInfo);
 });
 
+app.get("/allData/:id", (req, res) => {
+  const id = req.params.id;
+  const data = chefsInfo.find((pd) => pd.id == id);
+  res.send(data);
+});
+
 app.listen(port, () => {
   console.log(`data api is running on port: ${port}`);
 });
