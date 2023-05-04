@@ -43,8 +43,8 @@
   },
   {
     "id": 2,
-    "picture": "/img/chef2.jpg",
-    "name": "https://c.files.bbci.co.uk/9ECB/production/_122215604_firmenichnmaire3.jpg",
+    "picture": "https://c.files.bbci.co.uk/9ECB/production/_122215604_firmenichnmaire3.jpg",
+    "name": "Tareq Jameel",
     "yearsOfExperience": 20,
     "numRecipes": 150,
     "recipes": [
