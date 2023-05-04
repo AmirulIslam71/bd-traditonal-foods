@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "picture": "/img/chef1.jpg",
+    "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
     "name": "Siddika Kabir",
     "yearsOfExperience": 30,
     "numRecipes": 200,
@@ -27,13 +27,24 @@
           "Serve with syrup"
         ],
         "likes": 500
+      },
+      {
+        "name": "Kacchi",
+        "description": "A type of cake made with rice flour and coconut",
+        "ingredients": ["rice flour", "coconut", "sugar", "oil"],
+        "instructions": [
+          "Mix ingredients and shape into cakes",
+          "Fry in oil",
+          "Serve with syrup"
+        ],
+        "likes": 600
       }
     ]
   },
   {
     "id": 2,
     "picture": "/img/chef2.jpg",
-    "name": "Rukhsana Jalil",
+    "name": "https://c.files.bbci.co.uk/9ECB/production/_122215604_firmenichnmaire3.jpg",
     "yearsOfExperience": 20,
     "numRecipes": 150,
     "recipes": [
@@ -65,12 +76,23 @@
           "Serve with fried onions"
         ],
         "likes": 600
+      },
+      {
+        "name": "Chi jhal",
+        "description": "A simple rice and lentil dish, often served during festivals",
+        "ingredients": ["rice", "lentils", "spices", "vegetables", "oil"],
+        "instructions": [
+          "Cook lentils and rice separately",
+          "Mix and add vegetables and spices",
+          "Serve with fried onions"
+        ],
+        "likes": 900
       }
     ]
   },
   {
     "id": 3,
-    "picture": "/img/chef3.jpg",
+    "picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
     "name": "Munira Islam",
     "yearsOfExperience": 15,
     "numRecipes": 100,
@@ -109,12 +131,29 @@
           "Mash and serve"
         ],
         "likes": 400
+      },
+      {
+        "name": "Kabab",
+        "description": "A mashed vegetable dish, often served as a side",
+        "ingredients": [
+          "vegetables",
+          "onion",
+          "garlic",
+          "ginger",
+          "spices",
+          "oil"
+        ],
+        "instructions": [
+          "Cook vegetables and spices together",
+          "Mash and serve"
+        ],
+        "likes": 600
       }
     ]
   },
   {
     "id": 4,
-    "picture": "/img/chef4.jpg",
+    "picture": "https://imageio.forbes.com/blogs-images/bridgetarsenault/files/2019/01/Four-Seasons-Scottsdale-Chef-Samantha-Sanz-1200x1800.jpg?format=jpg&width=1200",
     "name": "Shawkat Osman",
     "yearsOfExperience": 25,
     "numRecipes": 175,
@@ -147,12 +186,30 @@
           "Garnish with chili and onion"
         ],
         "likes": 300
+      },
+      {
+        "name": "Firni",
+        "description": "A popular street food made with mashed potatoes and chickpeas",
+        "ingredients": [
+          "potatoes",
+          "chickpeas",
+          "spices",
+          "tamarind",
+          "chili",
+          "onion"
+        ],
+        "instructions": [
+          "Cook potatoes and chickpeas and mash together",
+          "Add spices and tamarind sauce",
+          "Garnish with chili and onion"
+        ],
+        "likes": 300
       }
     ]
   },
   {
     "id": 5,
-    "picture": "/img/chef5.jpg",
+    "picture": "https://st.depositphotos.com/1518767/4293/i/950/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
     "name": "Nadia Ali",
     "yearsOfExperience": 18,
     "numRecipes": 120,
@@ -185,12 +242,30 @@
           "Soak in sugar syrup and garnish with cardamom"
         ],
         "likes": 400
+      },
+      {
+        "name": "Kala vuna",
+        "description": "A popular dessert made with fried dough balls and sugar syrup",
+        "ingredients": [
+          "milk powder",
+          "flour",
+          "butter",
+          "sugar",
+          "water",
+          "cardamom"
+        ],
+        "instructions": [
+          "Mix milk powder, flour, and butter together",
+          "Shape into balls and fry",
+          "Soak in sugar syrup and garnish with cardamom"
+        ],
+        "likes": 530
       }
     ]
   },
   {
     "id": 6,
-    "picture": "/img/chef6.jpg",
+    "picture": "https://static.standard.co.uk/2022/06/29/15/newFile-9.jpg?width=1200&auto=webp&quality=75",
     "name": "Tareq Taylor",
     "yearsOfExperience": 12,
     "numRecipes": 80,
@@ -215,6 +290,24 @@
       },
       {
         "name": "Chicken rezala",
+        "description": "A creamy and aromatic chicken curry made with yogurt and spices",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "onion",
+          "garlic",
+          "ginger",
+          "spices"
+        ],
+        "instructions": [
+          "Cook chicken and spices separately",
+          "Add to yogurt and onion gravy",
+          "Garnish with cilantro"
+        ],
+        "likes": 150
+      },
+      {
+        "name": "Chicken Fry",
         "description": "A creamy and aromatic chicken curry made with yogurt and spices",
         "ingredients": [
           "chicken",
